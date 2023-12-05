@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 # Github es es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código.
 ## Linux está licenciado bajo la GPL v2
 ## La máquina que se considera precedesora del ordenador se llama máquina tabuladora de Herman Hollerith
+=======
+# Github es un programa que sirve para ejecutar scripts de python
+## Linux es software privativo con licencia freemium, por eso se considera libre
+## La máquina que se considera precedesora del ordenador se llama máquina de software
+>>>>>>> EEDGEG-control-version
